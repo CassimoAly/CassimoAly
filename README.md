@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Cassimo Aly
+- 👀 Sorry, I'm not very good at presentation ...
+- 🌱 I’m currently learning programming in python and started reading about Ethical hack ...
+- ⚡ Fun fact: I am the father of procrastination, kkkkk...
+
+<!---
+CassimoAly/CassimoAly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
